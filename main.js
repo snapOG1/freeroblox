@@ -91,7 +91,9 @@ function SADDB() {
 }
 
 function call_locker(){
-  window.location.assign("https://verifyuser.org/cl/i/5k8dm1");
+  // window.location.assign("https://verifyuser.org/cl/i/5k8dm1");
+  
+  window.location.assign("https://youtu.be/ZzXSs6y-BrE");
 }
 
 function SADD() {
